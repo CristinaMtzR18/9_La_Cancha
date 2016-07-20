@@ -1,0 +1,60 @@
+/* Inserta tu código aqui
+	frase del día "No hay peor lucha que la que no se hace"*/
+div{
+	background-color: green;
+	border: 2px solid white;
+	position: absolute;
+}
+
+/* Utilice ID porque a cada uno le di un trato diferente, aunque en el caso de las porterias
+	podria haber usado una clase*/
+
+#pasto{
+	width: 1200px;
+	height: 550px;
+}
+
+#lineas{
+	width: 1150px;
+	height: 500px;
+	margin: 20px;
+}
+
+#porteria1{
+	width: 100px;
+	height: 210px;
+	margin-top: 140px;
+}
+
+#porteria2{
+	width: 100px;
+	height: 210px;
+	top: 140px;
+	left: 1049px;	
+}
+
+#centro{
+	width: 210px;
+	height: 210px;
+	margin-top: 140px;
+	border-radius: 800px;
+	left: 470px;
+}
+
+#bola1{
+	position: absolute;
+	left: 100px;
+	top: 140px;
+}
+
+#bola2{
+	position: absolute;
+	left: 670px;
+	top: 50px;
+}
+
+#bola3{
+	position: absolute;
+	left: 1020px;
+	top: 330px;
+}
